@@ -18,9 +18,16 @@ sudo python src/setup.py install
 Usage
 ------------------------
 
+As a script:
 ```shell
 checkSrt [-h] [-r] [-v] [dir [dir ...]]
 ```
+
+As a library
+```python
+import checkSrt
+```
+
 License
 ------------------------
 
